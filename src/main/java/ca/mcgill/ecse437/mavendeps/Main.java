@@ -1,4 +1,4 @@
-package ca.mcgill.ecse321.mavendeps;
+package ca.mcgill.ecse437.mavendeps;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
