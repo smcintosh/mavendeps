@@ -1,4 +1,4 @@
-package ca.mcgill.ecse437.mavendeps;
+package ca.uwaterloo.cs446.mavendeps;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
